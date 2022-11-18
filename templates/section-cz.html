@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block title %}Martin Šmíd{% endblock title %}
+
+{% block content %}
+<div class="big-head">
+  <!--<div class="invisible"></div>-->
+  <h1>{{ section.title }}</h1>
+  <div class="sect-nav">
+    <a href="/">úvod</a>
+    <a href="/">profesionální</a>
+    <a href="/cz/others">ostatní</a>
+  </div>
+</div>
+<div class="cards">
+  {% for page in section.pages %}
+  <div class="card">
+    <header>
+      <h2>{{ page.title }}</h2>
+    </header>
+    <!--<div align="right">Published on: {{ page.date | date(format="%d/%m/%Y") }}&nbsp;</div>-->
+    <div class="card-body">{{ page.summary | safe }}</div>
+    {% if page.description == "more" %}
+    <footer>
+      <a href="{{ page.permalink | safe }}">&#10142; více</a>
+    </footer>
+    {% endif %}
+  </div>
+  {% endfor %}
+</div>
+{% endblock content %}

@@ -1,0 +1,249 @@
+// Setup //
+
+// metrics
+
+$grid: 10px;
+$font-size: 20px;
+$mw: 1000px;
+
+// colors
+
+$light: #f8fff0;
+//$semi-light: darken(#e4eadd, 5%);
+$semi-light: #d7e1e5;
+$dark: #4d001a; //#182434
+$shine: #d0ffd6;
+$dim: #334466;
+
+// imports
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&family=Roboto:wght@100;400;700&display=swap");
+
+// implementation
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+html {
+  background-color: lighten($dark, 15%);
+  font-family: "Roboto", sans-serif;
+  font-size: $font-size;
+}
+
+body {
+  display: flex;
+  //min-height: 100%;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url('fikus_5.jpg');
+  background-position: top;
+  background-repeat: no-repeat;
+  //background-attachment: fixed;
+  //max-width: 1000px;
+  padding: 0;
+  margin: 0 auto;
+  line-height: 1.2;
+}
+
+.header {
+  max-width: $mw;
+  opacity: 0.9;
+  background-color: $light;
+  display: flex;
+  width: 100%;
+  padding: 1rem;
+  .home {
+    flex: 1;
+    font-size: $font-size;
+    font-weight: 700;
+    float: left;
+  }
+  .lang-switch {
+    justify-self: flex-end;
+  }
+}
+
+.footer {
+  max-width: $mw;
+  opacity: 0.9;
+  background-color: $dark;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  padding: 1rem;
+  color: $light;
+  a {
+    display: inline-block;
+    color: $light;
+  }
+  span {
+    display: inline-block;
+    margin: 0 $grid;
+  }
+}
+
+.big-head {
+  max-width: $mw;
+  opacity: .6;
+  display: flex;
+  flex-direction: column;
+  //align-items: center;
+  align-items: flex-start;
+  //justify-content: center;
+  justify-content: space-between;
+  margin: 0;
+  padding: 1rem;
+  height: 120px;
+  background-color: $dark;
+  color: $light;
+  h1 {
+    flex: 1;
+    margin: 0;
+    font-family: "Roboto Mono", monospace;
+    font-weight: 400;
+    text-shadow: 3px 3px 6px black;
+  }
+  .sect-nav {
+    margin: 0;
+    a {
+      display: inline-block;
+      margin: 0 $grid*2 0 0;
+      color: $light;
+      font-size: 1.2rem;
+      &:hover {
+        color: $semi-light;
+      }
+    }
+  }
+}
+
+.small-head {
+  max-width: $mw;
+  opacity: .6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 1rem;
+  height: 120px;
+  background-color: $dark;
+  color: $light;
+  background-size: 30%;
+  background-position: right;
+  background-repeat: no-repeat;
+  h1 {
+    text-align: center;
+    font-family: "Roboto Mono", monospace;
+    font-weight: 400;
+  }
+}
+
+.content {
+  max-width: $mw;
+  //flex: 1;
+  padding: 2rem;
+  background-color: $light;
+  h3 {
+    margin-top: 0;
+  }
+}
+
+.cards {
+  max-width: $mw;
+  opacity: 1;
+  background-color: $semi-light;
+  padding: 1rem;
+  width: 100%;
+  margin: 0 auto;
+  column-count: 1;
+  column-gap: 1rem;
+}
+
+.card {
+  margin: 0 0 1rem 0;
+  background-color: $light;
+  //border: 2px solid #333;
+  border-radius: 5px;
+  //box-shadow: 4px 2px 6px #ccc;
+  -webkit-column-break-inside: avoid;
+  page-break-inside: avoid;
+  break-inside: avoid;
+  color: #324;
+  padding: 1rem;
+  header {
+    margin-bottom: $grid * 2;
+    h2 {
+      color: $dim;
+      margin: 0;
+      font-size: $font-size;
+    }
+  }
+  .card-body {
+    h3 {
+      font-weight: 700;
+      margin-bottom: $grid;
+    }
+  }
+  footer {
+    margin-top: $grid*2;
+    a {
+      font-size: $font-size*0.8;
+      background-color: $dim;
+      color: $light;
+      padding: $grid/2 $grid;
+      border-radius: 5px;
+    }
+  }
+}
+
+// blocks
+
+.text-list {
+  list-style-type: none;
+}
+
+p {
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+}
+
+@media (min-width: 600px) {
+  body {
+    background-size: cover;
+  }
+  .big-head {
+    height: 240px;
+    a {
+      margin: 0 0 0 $grid*2;
+    }
+  }
+  .cards {
+    column-count: 2;
+  }
+}
+
+@media (min-width: 900px) {
+  body {
+    background-size: 100%;
+  }
+  .big-head {
+    height: 330px;
+    flex-direction: row;
+    align-items: flex-end;
+    a {
+      margin: 0 0 0 $grid*2;
+    }
+  }
+  .cards {
+    column-count: 3;
+  }
+}

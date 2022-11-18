@@ -4,11 +4,12 @@ date = 2019-11-27
 weight = 10
 description = "more"
 lang = "cz"
+more = true
 +++
 
 ![Klec](klec_x.jpg "Skupina Klec")
 
-Skupinu <a href="http://www.klec.cz" target="_blank">Klec</a> jsem založil v roce 1997. Od té doby jsme absolvovali skoro 300 
+Skupinu <a href="http://www.klec.cz" target="_blank">Klec</a> jsem založil v roce 1997. Od té doby jsme absolvovali přes 300 
 <a href="http://klec.stejnyxichty.cz/klec_hk.php" target="_blank">vystoupení</a> a natočili jsme <a href="http://www.klec.cz/klec_cd.htm" target="_blank">2 CD</a>.
 
 <!-- more -->

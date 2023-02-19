@@ -5,12 +5,6 @@ weight = 2
 description = "Erdos"
 +++
 
-
-
-<base target="_blank">
-
-
-
 Erdös-Bacon number is the sum of [collaboration distance](https://mathscinet.ams.org/mathscinet/collaborationDistance.html) to Paul-Erdös (in math) and to Kevin Bacon (in movie appearance). In [Erdös-Bacon-Sabbath number](https://news.asu.edu/20160126-creativity-lawrence-krauss-erdos-bacon-sabbath-score), the distance to Black Sabbath is added; however, I still had not found a path from their metal to my post-klezmer.
 
 

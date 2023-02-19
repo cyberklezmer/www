@@ -6,10 +6,8 @@ more = true
 description = "more"
 +++
 
-<base target="_blank">
 
-
-![Graf](/images/science.gif "Inustrace")
+![Graf](/images/science.png "Inustrace")
 
 [Researcher ID](https://www.webofscience.com/wos/author/record/I-8828-2012) / [Scopus](https://www.scopus.com/authid/detail.uri?authorId=7006398520)
 / [zaměstnání](http://www.utia.cz/people/smid)

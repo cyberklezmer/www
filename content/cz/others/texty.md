@@ -5,8 +5,6 @@ date = 2022-09-22
 more = false
 +++
 
-<base target="_blank">
-
 (miniklec) [Texty pro Klec](http://klec2.stejnyxichty.cz/index.php?ind=1 )
 
 <br>

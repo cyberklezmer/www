@@ -174,7 +174,7 @@ body {
   }
   img {
     margin-bottom: $grid*2;
-    width: 100%;
+    max-width: 100%;
   }
   p, ul {
     margin-top: $grid;
@@ -220,8 +220,10 @@ body {
       color: $link;
     }
     img {
-      width: 100%;
+      max-width: 100%;
       margin-bottom: $grid;
+      vertical-align:middle;
+      border-radius: 5px;
     }
   }
   footer {

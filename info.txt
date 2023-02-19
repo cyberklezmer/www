@@ -1,0 +1,6 @@
+Erdősovo číslo: převzal jsem to z tvých původních stránek ("http://martinsmid.cz/index.php?title=Moje%20cesta%20k%20Erd%C5%91sovi&page=erdos"). Jak to má vypadat?
+
+YT <i class="fa-brands fa-youtube"></i>
+PDF <i class="fa-solid fa-file-pdf"></i>
+Spotify <i class="fa-brands fa-spotify"></i>
+globe <i class="fa-solid fa-globe"></i>

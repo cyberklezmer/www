@@ -6,9 +6,7 @@ description = "more"
 lang = "cz"
 +++
 
-<base target="_blank">
-
-![listopad](/images/listopad.jpg)
+![listopad](/images/listopad-small.jpg)
 
 Jedním z impulsů k "sametové revoluci" v roce 1989 byla fáma, že byl policií zabit student s mým jménem.
 

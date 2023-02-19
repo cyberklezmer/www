@@ -5,8 +5,6 @@ weight = 2
 description = "Microdebilissa smidi"
 +++
 
-<base target="_blank">
-
 ![Brouk](/images/brouk.jpg "Microdebilissa smidi")
 
 

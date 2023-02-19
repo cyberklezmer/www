@@ -15,6 +15,9 @@ Skupinu <a href="http://www.klec.cz" target="_blank">Klec</a> jsem založil v ro
 <!-- more -->
 
 Odkazy:
-- <a href="https://www.youtube.com/channel/UCx802mDoyzH-FS8dUCfhj8w/videos" target="_blank">YouTube</a> 
-- <a href="https://open.spotify.com/artist/1o7HpJ5bwqv7C1j66KZKnX?si=DeRxgFv8SbyaMPd6rxBRcw" target="_blank">Spotify</a>,
-- <a href="http://klec2.stejnyxichty.cz/index.php?ind=1" target="_blank">texty k písním</a>
+
+<i class="fa-brands fa-youtube"></i> <a href="https://www.youtube.com/channel/UCx802mDoyzH-FS8dUCfhj8w/videos" target="_blank">YouTube</a> 
+
+<i class="fa-brands fa-spotify"></i> <a href="https://open.spotify.com/artist/1o7HpJ5bwqv7C1j66KZKnX?si=DeRxgFv8SbyaMPd6rxBRcw" target="_blank">Spotify</a>,
+
+<i class="fa-solid fa-globe"></i> <a href="http://klec2.stejnyxichty.cz/index.php?ind=1" target="_blank">texty k písním</a>

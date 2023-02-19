@@ -1,7 +1,7 @@
 +++
 title = "Věda"
 date = 2019-11-27
-weight = 2
+weight = 1
 more = true
 description = "more"
 +++

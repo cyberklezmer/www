@@ -1,6 +1,6 @@
 +++
 title = "Pandemie COVID"
-weight = 19
+weight = 2
 date = 2022-09-22
 more = true
 description = "more"
@@ -8,8 +8,9 @@ description = "more"
 
 ![COVID](/images/covid.png)
 
-<i class="fa-solid fa-person-chalkboard"></i> [COVID, rychlá věda a statistika](https://www2.karlin.mff.cuni.cz/~hlubinka/beseda/soubory/Smid_20211201.mp4) (MFF UK, prosinec 2021)
+<!--<i class="fa-solid fa-person-chalkboard"></i>[COVID, rychlá věda a statistika](https://www2.karlin.mff.cuni.cz/~hlubinka/beseda/soubory/Smid_20211201.mp4) (MFF UK, prosinec 2021)-->
 
+<i class="fa-solid fa-person-chalkboard"></i>&nbsp;<a href="https://www2.karlin.mff.cuni.cz/~hlubinka/beseda/soubory/Smid_20211201.mp4" target="_bank">COVID, rychlá věda a statistika</a>
 
 <!-- more -->
 

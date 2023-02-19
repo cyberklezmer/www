@@ -1,6 +1,6 @@
 +++
 title = "Pandemie COVID"
-weight = 19
+weight = 2
 date = 2022-09-22
 more = true
 description = "more"

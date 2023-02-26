@@ -6,10 +6,6 @@ description = "Erdos"
 +++
 
 
-<p align="center">
-
-
-
 ### My Erdös-Bacon number = 8
 
 &nbsp;
@@ -33,7 +29,6 @@ description = "Erdos"
  | | = | | 
 | | Erdös-Bacon number = 8| | 
 | | Erdös-Bacon-Sabbath number > 9| | 
-</p>
 
 &nbsp;
 

@@ -1,10 +1,16 @@
 // Setup //
+
 $grid: 10px;
 $font-size: 20px;
+$icon: 1.2*$font-size;
 
 // colors
 
+$html: #8f8fab; 
+$cards: #aab; 
+$card: #cce;
 $text: #220510;
+$content: #bbc;
 $light: #cce;
 //$semi-light: darken(#e4eadd, 5%);
 $semi-light: #aab;
@@ -13,7 +19,6 @@ $dark: #103040;
 $shine: #d0ffd6;
 //$dim: #802040;
 //$dim: #4080cc;
-$html: #bbc;
 $dim: #46464d;
 $comp: #204080;
 $link: #33339a;
@@ -24,7 +29,7 @@ $link: #33339a;
 
 // color scheme
 
-html { background-color: darken($html, 15%); }
+html { background-color: $html; }
 body { background-color: $dark; }
 .header { background-color: $light; }
 
@@ -60,10 +65,10 @@ body {
   background-color: rgba($light, 0.9);
   display: flex;
   width: 100%;
-  padding: 1rem;
+  padding: .75rem;
   .home {
     flex: 1;
-    font-size: $font-size;
+    font-size: 30px;
     font-weight: 700;
     float: left;
     color: $dark;
@@ -72,6 +77,7 @@ body {
     }
   }
   .lang-switch {
+    margin: auto;
     justify-self: flex-end;
     color: $dark;
     a {
@@ -93,12 +99,21 @@ body {
   color: $light;
   font-size: 0.8*$font-size;
   a {
+    margin: auto $grid auto 0;
     display: inline-block;
     color: $light;
   }
   span {
     display: inline-block;
-    margin: 0 $grid;
+    margin: auto $grid;
+  }
+  .social {
+    flex: 1;
+    text-align: right;
+    font-size: $font-size*1.25;
+    a {
+      padding-left: $grid/2;
+    }
   }
 }
 
@@ -161,13 +176,16 @@ body {
     text-align: center;
     font-family: "Roboto Mono", monospace;
     font-weight: 400;
+    &::before {
+      content: "Martin Šmíd - ";
+    }
   }
 }
 
 .content {
   flex: 1;
   padding: 1rem 2rem 4rem 2rem;
-  background-color: $light;
+  background-color: $content;
   h3 {
     margin-top: $grid*2;
     margin-bottom: 0;
@@ -179,11 +197,15 @@ body {
   p, ul {
     margin-top: $grid;
   }
+  table {
+    margin: 0 auto;
+    text-align: center;
+  }
 }
 
 .cards {
   opacity: 1;
-  background-color: $semi-light;
+  background-color: $cards;
   padding: 1rem;
   width: 100%;
   margin: 0 auto;
@@ -254,6 +276,10 @@ p {
 ul {
   margin: 0;
   list-style-type: square;
+}
+
+.icon {
+  font-size: $icon;
 }
 
 @media (min-width: 600px) {

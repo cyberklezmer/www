@@ -34,11 +34,11 @@
         <loc>http://new.martinsmid.cz/cz/others/</loc>
     </url>
     <url>
-        <loc>http://new.martinsmid.cz/cz/others/klec/</loc>
+        <loc>http://new.martinsmid.cz/cz/others/klec-copy/</loc>
         <lastmod>2019-11-27</lastmod>
     </url>
     <url>
-        <loc>http://new.martinsmid.cz/cz/others/literatura/</loc>
+        <loc>http://new.martinsmid.cz/cz/others/literatura-copy/</loc>
         <lastmod>2019-11-27</lastmod>
     </url>
     <url>
@@ -53,7 +53,7 @@
         <loc>http://new.martinsmid.cz/cz/profes/</loc>
     </url>
     <url>
-        <loc>http://new.martinsmid.cz/cz/profes/pandemie-covid/</loc>
+        <loc>http://new.martinsmid.cz/cz/profes/andemie-covid-copy/</loc>
         <lastmod>2022-09-22</lastmod>
     </url>
     <url>
@@ -61,7 +61,7 @@
         <lastmod>2022-09-22</lastmod>
     </url>
     <url>
-        <loc>http://new.martinsmid.cz/cz/profes/veda/</loc>
+        <loc>http://new.martinsmid.cz/cz/profes/veda-copy/</loc>
         <lastmod>2019-11-27</lastmod>
     </url>
     <url>
@@ -72,10 +72,21 @@
         <loc>http://new.martinsmid.cz/en/</loc>
     </url>
     <url>
-        <loc>http://new.martinsmid.cz/en/veda/</loc>
+        <loc>http://new.martinsmid.cz/en/others/</loc>
+    </url>
+    <url>
+        <loc>http://new.martinsmid.cz/en/others/uc/</loc>
         <lastmod>2019-11-27</lastmod>
     </url>
     <url>
-        <loc>http://new.martinsmid.cz/en/veda/erdos/</loc>
+        <loc>http://new.martinsmid.cz/en/profes/</loc>
+    </url>
+    <url>
+        <loc>http://new.martinsmid.cz/en/profes/uc/</loc>
+        <lastmod>2019-11-27</lastmod>
+    </url>
+    <url>
+        <loc>http://new.martinsmid.cz/en/uc/</loc>
+        <lastmod>2019-11-27</lastmod>
     </url>
 </urlset>

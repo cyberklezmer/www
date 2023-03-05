@@ -1,7 +1,7 @@
 +++
 title = "Listopad '89"
 date = 2022-09-10
-weight = 20
+weight = 50
 description = "more"
 lang = "cz"
 +++

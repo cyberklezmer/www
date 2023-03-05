@@ -8,7 +8,7 @@ $icon: 1.2*$font-size;
 
 $html: #8f8fab; 
 $cards: #aab; 
-$card: #cce;
+$card: #ddf;
 $text: #220510;
 $content: #bbc;
 $light: #cce;
@@ -218,7 +218,7 @@ body {
   margin: 0 0 1rem 0;
   background-color: $light;
   border-radius: 5px;
-  box-shadow: 4px 2px 6px #ccc;
+  box-shadow: 4px 2px 6px #999;
   -webkit-column-break-inside: avoid;
   page-break-inside: avoid;
   break-inside: avoid;
@@ -270,7 +270,11 @@ body {
 }
 
 p {
-  margin: 0;
+  margin-top: 0px;
+  margin-bottom: 15px;
+  margin-left: 0px;
+  margin-right: 0px;
+
 }
 
 ul {

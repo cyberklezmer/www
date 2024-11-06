@@ -1,21 +1,19 @@
 +++
 title = "Listopad '89"
 date = 2022-09-10
-weight = 50
+weight = 500
 description = "more"
 lang = "cz"
 +++
 
 ![listopad](/images/listopad-small.jpg)
 
-Jedním z impulsů k "sametové revoluci" v roce 1989 byla fáma, že byl policií zabit student s mým jménem.
+<a href="/docs/zapisky.htm" target="_blank">Mé zápisky</a> / <a href="https://www.pametnaroda.cz/cs/smid-martin-1970-0" target="_blank"> Paměť národa</a> / <a href="/docs/tencovypadl.html" target="_blank">Ten, co vypadl z letadla</a> 
 
 <!-- more -->
 
 ### Zdroje v češtině
 
-- <a href="/docs/zapisky.htm" target="_blank">Mé zápisky</a>
-- <a href="/docs/tencovypadl.html" target="_blank">Ten, co vypadl z letadla</a> -- literární povzdech u příležitosti 30. výročí
 - <a href="https://www.matfyz.cz/clanky/tenkrat-v-listopadu-martin-smid" target="_blank">Tenkrát v listopadu</a> -- kapitola ze vzpomínkové knihy vydané MFF
 - <a href="https://www.ceskatelevize.cz/porady/10256209763-mrtvy-student-ktery-se-nikdy-nenarodil/" target="_blank">Mrtvý student, který se nikdy nenarodil</a> -- film Igora Chauna
 - <a href="/docs/patnact.htm" target="_blank">Patnáct a dost</a> -- oficiální rozloučení s kariérou mrtvého studenta.

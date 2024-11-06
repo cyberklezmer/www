@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: http://new.martinsmid.cz/sitemap.xml
+Sitemap: http://www.martinsmid.cz/sitemap.xml

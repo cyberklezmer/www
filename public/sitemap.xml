@@ -7,6 +7,10 @@
         <loc>http://www.martinsmid.cz/cz/</loc>
     </url>
     <url>
+        <loc>http://www.martinsmid.cz/cz/aktual/</loc>
+        <lastmod>2025-03-09</lastmod>
+    </url>
+    <url>
         <loc>http://www.martinsmid.cz/cz/klec/</loc>
         <lastmod>2019-11-27</lastmod>
     </url>
@@ -31,10 +35,6 @@
     </url>
     <url>
         <loc>http://www.martinsmid.cz/cz/others/klec-copy/</loc>
-        <lastmod>2019-11-27</lastmod>
-    </url>
-    <url>
-        <loc>http://www.martinsmid.cz/cz/others/klec/</loc>
         <lastmod>2019-11-27</lastmod>
     </url>
     <url>
@@ -64,10 +64,6 @@
     <url>
         <loc>http://www.martinsmid.cz/cz/ovoce/</loc>
         <lastmod>2019-11-27</lastmod>
-    </url>
-    <url>
-        <loc>http://www.martinsmid.cz/cz/pandemie-covid/</loc>
-        <lastmod>2022-09-22</lastmod>
     </url>
     <url>
         <loc>http://www.martinsmid.cz/cz/pastrami/</loc>
@@ -109,14 +105,6 @@
     </url>
     <url>
         <loc>http://www.martinsmid.cz/en/odkazy/brouk/</loc>
-        <lastmod>2019-11-27</lastmod>
-    </url>
-    <url>
-        <loc>http://www.martinsmid.cz/en/odkazy/erdos-copy/</loc>
-        <lastmod>2019-11-27</lastmod>
-    </url>
-    <url>
-        <loc>http://www.martinsmid.cz/en/odkazy/erdos/</loc>
         <lastmod>2019-11-27</lastmod>
     </url>
     <url>

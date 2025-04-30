@@ -1,6 +1,6 @@
 +++
 title = "Kdo z vás to má?"
-weight = 9
+weight = 5
 date = 2022-09-22
 more = false
 +++

@@ -1,17 +1,19 @@
 +++
-title = "Studentské práce"
+title = "Vedení prací"
 weight = 200
 date = 2025-09-30
 description = "more"
 +++
 
-<i class="icon fa-solid fa-pen-nib"></i> Nabízím vedení bakalářských, diplomových, i disertačních prací
+<i class="icon fa-solid fa-pen-nib"></i> Nabízím vedení bakalářských, diplomových i disertačních prací
 
-<i class="fa-solid fa-list"></i> Aktuální témata
+<i class="fa-solid fa-list"></i> Témata
 
-- šíření dezinformací na sítích
-- účinnost a vedlejší účinky COVID vakcín
-- rozhodování za neurčitosti
+- **Zpětná analýza pandemie** – optimální řízení, efektivní hranice úmrtí a nákladů
+- **Nežádoucí účinky očkování** a teorie zkreslení v observačních studiích
+- **Neautentické a škodlivé chování** na sociálních sítích
+- **Uhlíková daň vs. emisní povolenky** – teoretické srovnání na základě teorie ekvilibrií
+- **Sekvenční optimalizace** s nestandardními rozhodovacími kritérii
 
 
 <!-- more -->

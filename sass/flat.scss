@@ -1,7 +1,7 @@
 // Setup //
 
 $grid: 10px;
-$font-size: 20px;
+$font-size: 12px; // původně 20px
 $icon: 1.2*$font-size;
 
 // colors
@@ -68,7 +68,7 @@ body {
   padding: .75rem;
   .home {
     flex: 1;
-    font-size: 30px;
+    font-size: 1.5*$font-size;
     font-weight: 700;
     float: left;
     color: $dark;
@@ -279,7 +279,12 @@ p {
 
 ul {
   margin: 0;
+  padding-left: 1.2em;
   list-style-type: square;
+}
+
+strong, b {
+  font-weight: 500;
 }
 
 .icon {

@@ -10,7 +10,7 @@ description = "more"
 
 2009, hudba i texty MŠ
 
-### <a name="opravde">O pravdě
+### <a name="opravde"></a>O pravdě
 
 Pravda prej vítězí<br>
 Jeden moudrej pán povídal<br>
@@ -57,7 +57,7 @@ Správnej úhel pohledu<br>
 Sorry pane Mandelbrote<br>
 Tohleto já nesvedu<br>
 
-### <a name="rabinska">Rabínská strasse
+### <a name="rabinska"></a>Rabínská strasse
 
 Die Rabinska Strasse ist<br>
 Verloren und niemand misst<br>

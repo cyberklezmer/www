@@ -7,14 +7,14 @@ description = "more"
 
 +++
 
-| <img src="/images/ovocea.png "  width="130">  | &nbsp; | <iframe width="120" height="200" src="https://www.youtube.com/embed/trU9lqccCsk" title="Po ovoci poznáte je - trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> |
+| <img src="/images/ovocea.png"  width="130">  | &nbsp; | <iframe width="120" height="200" src="https://www.youtube.com/embed/trU9lqccCsk" title="Po ovoci poznáte je - trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> |
 | :---: | :---: | :---: |
 
 
 
 
-<i class="fa-regular fa-thumbs-up"></i> <a href="https://www.magazinuni.cz/aktuality/po-ovoci-poznate-je-martin-smid/" tarket="_blank">Recenze</a> / <i class="fa-regular fa-face-grin-squint-tears"></i> <a href="https://www.reflex.cz/clanek/kultura/122495/sexualni-gymnastika-ve-spitale-u-nemocnicni-erotiky-jsou-pacient-i-jeho-pecovatelka-maximalne-asexualni.html" tarket="_blank">Ocenění</a>
-<br><i class="fa-brands fa-youtube"></i> <a href="https://youtu.be/SR5fq9zi8dU" tarket="_blank">Ukázky</a> 
+<i class="fa-regular fa-thumbs-up"></i> <a href="https://www.magazinuni.cz/aktuality/po-ovoci-poznate-je-martin-smid/" target="_blank">Recenze</a> / <i class="fa-regular fa-face-grin-squint-tears"></i> <a href="https://www.reflex.cz/clanek/kultura/122495/sexualni-gymnastika-ve-spitale-u-nemocnicni-erotiky-jsou-pacient-i-jeho-pecovatelka-maximalne-asexualni.html" target="_blank">Ocenění</a>
+<br><i class="fa-brands fa-youtube"></i> <a href="https://youtu.be/SR5fq9zi8dU" target="_blank">Ukázky</a> 
 
 <!-- more -->
 
@@ -36,7 +36,7 @@ Stromy, samé stromy...
 </p>
 
 <p style="margin-left: 30px;">
-Sebastiane, dlouho jsem váhala, zda a jak Ti psát. Radila jsem se o tom i s terapeuterm, a ten mi doporučil, ať dopis určitě napíšu a pak teprve se rozhodnu, zda Ti ho pošlu nebo ne. Jestli ho držíš v ruce, pak jsem ho poslala, jinak leží na některém z mých tajných míst.
+Sebastiane, dlouho jsem váhala, zda a jak Ti psát. Radila jsem se o tom i s terapeutem, a ten mi doporučil, ať dopis určitě napíšu a pak teprve se rozhodnu, zda Ti ho pošlu nebo ne. Jestli ho držíš v ruce, pak jsem ho poslala, jinak leží na některém z mých tajných míst.
 </p>
 
 <p style="margin-left: 30px;">
@@ -77,12 +77,12 @@ Hele, já jsem to celý četl. Podle mě je to slátanina. ... Věci, který tam
 
 <i class="fa-solid fa-comment"></i> Co na to čtenáři
 
-No, dobře se to rozjede, ale tu duchařinu moc nemusím / Erotika dobrá, to mě překvapilo / Ten sex ... je strašnej - schválně, jestli vás napadne někdo, kdo umí popsat sex tak, aby vám nebylo trapně / (hádejte gender posledních dvou) / Uprostřed Sebastian (hrdina) nějak moc tápe / Na prvotinu dobrý / To jsem zvědav, co řeknou recenzenti / Na straně třicet jsem rozbila čtečku / Mně se to moc líbilo, ale možná hlavně proto, že jsem měl nízký očekávávní: dokážu si představit, jak to může vypadat, kdy my vědci začheme psát / Dnutilo mě přemýšlet nad filozofickou otázkou jestli když člověk zapomene na událost, která vedla k psychickým problémům, tak se zároveň zbaví i těch problémů, anděly se přiznám jsem trochu přeskakovala / **<a href="https://www.volvox.cz/knihy/mimo/smid_po_ovoci_poznate_je.php" target="_blank">A co na to ty?</a>**
+No, dobře se to rozjede, ale tu duchařinu moc nemusím / Erotika dobrá, to mě překvapilo / Ten sex ... je strašnej - schválně, jestli vás napadne někdo, kdo umí popsat sex tak, aby vám nebylo trapně / (hádejte gender posledních dvou) / Uprostřed Sebastian (hrdina) nějak moc tápe / Na prvotinu dobrý / To jsem zvědav, co řeknou recenzenti / Na straně třicet jsem rozbila čtečku / Mně se to moc líbilo, ale možná hlavně proto, že jsem měl nízký očekávání: dokážu si představit, jak to může vypadat, když my vědci začneme psát / Donutilo mě přemýšlet nad filozofickou otázkou jestli když člověk zapomene na událost, která vedla k psychickým problémům, tak se zároveň zbaví i těch problémů, ale přiznám se, jsem trochu přeskakovala / **<a href="https://www.volvox.cz/knihy/mimo/smid_po_ovoci_poznate_je.php" target="_blank">A co na to ty?</a>**
 
 
 <i class="fa-solid fa-triangle-exclamation"></i> <a href="/docs/ovocespoiler.pdf" target="_blank">Více o příběhu</a> - pozor, vyzrazuje zápletku!
 
-<i class="fa-solid fa-newspaper"></i> Roku 2003 vydal <a href="https://www.volvox.cz/" target="_blank">Volvox Globator</a>
+<i class="fa-solid fa-newspaper"></i> Roku 2023 vydal <a href="https://www.volvox.cz/" target="_blank">Volvox Globator</a>
 
 <i class="fa-solid fa-coins"></i> Podpořeno <a href="https://www.mkcr.cz/statni-fond-kultury-cr-cs-42" target="_blank">Státním fondem kultury</a>.
 

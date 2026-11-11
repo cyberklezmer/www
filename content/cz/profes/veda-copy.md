@@ -18,8 +18,8 @@ description = "more"
 
 **Témata:** rozhodování za neurčitosti / matematické modelování / interdisciplinární
 
-Preprinty:  <a href="http://arxiv.org/find/stat/1/au:+Smid_Martin/0/1/0/all/0/1" target="_blank">ArXiv</a>, 
+Preprinty:  <a href="https://arxiv.org/search/?searchtype=author&query=Smid%2C+Martin" target="_blank">ArXiv</a>, 
  <a href="http://ssrn.com/author=586582" target="_blank">SSRN</a>, 
- <a href="https://www.medrxiv.org/search/author1%3AMartin%2BSmid%20jcode%3Amedrxiv%20numresults%3A10%20sort%3Arelevance-rank%20format_result%3Astandard" target="_blank">MedXiv</a>
+ <a href="https://www.medrxiv.org/search/author1%3AMartin%2BSmid%20jcode%3Amedrxiv%20numresults%3A10%20sort%3Arelevance-rank%20format_result%3Astandard" target="_blank">medRxiv</a>
  
 <a href="https://utia.cas.cz/en/people/?pid=193" target="_blank">Stránka v práci</a> / <a href="/docs/d.pdf" target="_blank">Disertace</a>

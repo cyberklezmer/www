@@ -10,12 +10,12 @@ description = "more"
 
 <!--<i class="fa-solid fa-person-chalkboard"></i>[COVID, rychlá věda a statistika](https://www2.karlin.mff.cuni.cz/~hlubinka/beseda/soubory/Smid_20211201.mp4) (MFF UK, prosinec 2021)-->
 
-<i class="icon fa-solid fa-book-open"></i>&nbsp;<a href="https://karolinum.cz/knihy/diviak-rok-s-pandemii-covid-19-27738" target="_bank">Rok s pandemií</a> (kniha)
+<i class="icon fa-solid fa-book-open"></i>&nbsp;<a href="https://karolinum.cz/knihy/diviak-rok-s-pandemii-covid-19-27738" target="_blank">Rok s pandemií</a> (kniha)
 
 
-<i class="icon fa-solid fa-person-chalkboard"></i>&nbsp;<a href="https://www2.karlin.mff.cuni.cz/~hlubinka/beseda/soubory/Smid_20211201.mp4" target="_bank">COVID, rychlá věda a statistika</a>
+<i class="icon fa-solid fa-person-chalkboard"></i>&nbsp;<a href="https://www2.karlin.mff.cuni.cz/~hlubinka/beseda/soubory/Smid_20211201.mp4" target="_blank">COVID, rychlá věda a statistika</a>
 
-<i class="icon fa-solid fa-newspaper"></i>&nbsp;<a href="https://www.academixrevue.cz/neznalosti-manipulaci-proti-matematickym-modelum-0" target="_bank">Polemika s T. Fürstem</a>
+<i class="icon fa-solid fa-newspaper"></i>&nbsp;<a href="https://www.academixrevue.cz/neznalosti-manipulaci-proti-matematickym-modelum-0" target="_blank">Polemika s T. Fürstem</a>
 
 
 <!-- more -->

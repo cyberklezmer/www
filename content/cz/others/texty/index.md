@@ -14,7 +14,7 @@ Closing time</a> /
 <a href="http://klec2.stejnyxichty.cz/index.php?ind=klec_txt&song=Haleluja&ind=1&english=" target="_blank"> 
 Hallelujah</a> 
 
-<i class="fa-solid fa-leaf"></i> *Hříchy mládí:* <a href="/audio/pozvi.mp3" target="_blank">Pozvi mě dál</a>, <a href="/audio/svita.mp3" target="_blank">Svítá</a>, <a href="https://youtu.be/KXceVfCsYGM" target="_blank">Pijácká</a> - Lunovis 1996 / <a href="https://youtu.be/h-uyXxDA4iM" target="_blank">Bohémská</a> - text pro <a href="hhttps://bandzone.cz/neocekavanydychanek" target="_blank">ND</a> 1996
+<i class="fa-solid fa-leaf"></i> *Hříchy mládí:* <a href="/audio/pozvi.mp3" target="_blank">Pozvi mě dál</a>, <a href="/audio/svita.mp3" target="_blank">Svítá</a>, <a href="https://youtu.be/KXceVfCsYGM" target="_blank">Pijácká</a> - Lunovis 1996 / <a href="https://youtu.be/h-uyXxDA4iM" target="_blank">Bohémská</a> - text pro <a href="https://bandzone.cz/neocekavanydychanek" target="_blank">ND</a> 1996
 
 
 
@@ -23,7 +23,7 @@ Hallelujah</a>
 
 ![Y](/images/y-mini.png)
 *[Písně pro hru TGM](@/cz/others/texty/y.md):*
-[O pravdě](@/cz/others/texty/y.md#opravde) / [Rabinska strasse](@/cz/others/texty/y.md#rabinska) / [Chaos](@/cz/others/texty/y.md#chaos)
+[O pravdě](@/cz/others/texty/y.md#opravde) / [Rabínská strasse](@/cz/others/texty/y.md#rabinska) / [Chaos](@/cz/others/texty/y.md#chaos)
 
 
 

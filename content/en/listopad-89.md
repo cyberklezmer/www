@@ -8,7 +8,7 @@ lang = "cz"
 
 ![November](/images/listopad-small.jpg)
 
-<a href="/docs/zapisky.htm" target="_blank">My Notes</a> / <a href="https://www.pametnaroda.cz/cs/smid-martin-1970-0" target="_blank">Memory of the Nation</a> / <a href="/docs/tencovypadl.html" target="_blank">The One Who Fell from the Plane</a>
+<a href="/docs/zapisky.htm" target="_blank">My Notes</a> (in Czech) / <a href="https://www.pametnaroda.cz/cs/smid-martin-1970-0" target="_blank">Memory of the Nation</a> (in Czech) / <a href="/docs/tencovypadl.html" target="_blank">The One Who Fell from the Plane</a> (in Czech)
 
 <!-- more -->
 
@@ -20,7 +20,7 @@ lang = "cz"
 - <a href="/docs/ppost.htm" target="_blank">My Unpublished Article for The Prague Post from 1999</a>
 - <a href="http://www.louc.cz/pril01/Listopvzpom.pdf" target="_blank">Memories of My Father Milan Šmíd</a>
 - <a href="/docs/zacek.pdf" target="_blank">Article by P. Žáček (Securitas Imperii 2010)</a>
-- <a href="http://www.psp.cz/eknih/1990fs/tisky/t1236_01.htm" target="_blank">Final Report of the Investigation Commission of the FS of the Czech Republic</a>, especially part III. 5) below <a href="http://www.psp.cz/eknih/1990fs/tisky/t1236_05.htm" target="_blank">here</a>
+- <a href="http://www.psp.cz/eknih/1990fs/tisky/t1236_01.htm" target="_blank">Final Report of the Investigation Commission of the Federal Assembly of Czechoslovakia</a>, especially part III. 5) below <a href="http://www.psp.cz/eknih/1990fs/tisky/t1236_05.htm" target="_blank">here</a>
 
 ### Foreign Language Sources
 

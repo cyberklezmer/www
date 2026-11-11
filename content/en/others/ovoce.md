@@ -9,14 +9,14 @@ description = "more"
 | <img src="/images/ovocea.png" width="130"> | &nbsp; | <iframe width="120" height="200" src="https://www.youtube.com/embed/trU9lqccCsk" title="By their fruits you will know them - trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> |
 | :---: | :---: | :---: |
 
-<i class="fa-regular fa-thumbs-up"></i> <a href="https://www.magazinuni.cz/aktuality/po-ovoci-poznate-je-martin-smid/" target="_blank">Review</a> / <i class="fa-regular fa-face-grin-squint-tears"></i> <a href="https://www.reflex.cz/clanek/kultura/122495/sexualni-gymnastika-ve-spitale-u-nemocnicni-erotiky-jsou-pacient-i-jeho-pecovatelka-maximalne-asexualni.html" target="_blank">Award</a>
-<br><i class="fa-brands fa-youtube"></i> <a href="https://youtu.be/SR5fq9zi8dU" target="_blank">Excerpts</a> 
+<i class="fa-regular fa-thumbs-up"></i> <a href="https://www.magazinuni.cz/aktuality/po-ovoci-poznate-je-martin-smid/" target="_blank">Review</a> (in Czech) / <i class="fa-regular fa-face-grin-squint-tears"></i> <a href="https://www.reflex.cz/clanek/kultura/122495/sexualni-gymnastika-ve-spitale-u-nemocnicni-erotiky-jsou-pacient-i-jeho-pecovatelka-maximalne-asexualni.html" target="_blank">Award</a>
+<br><i class="fa-brands fa-youtube"></i> <a href="https://youtu.be/SR5fq9zi8dU" target="_blank">Excerpts</a> (in Czech) 
 
 <!-- more -->
 
 <iframe width="654" height="368" src="https://www.youtube.com/embed/SR5fq9zi8dU" title="Dramatic reading from the book 'By their fruits you will know them'" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<i class="fa-solid fa-cart-shopping"></i> Buy <a href="https://www.volvox.cz/knihy/mimo/smid_po_ovoci_poznate_je.php" target="_blank">the paper book</a> / <a href="https://www.kosmas.cz/knihy/529126/po-ovoci-poznate-je/" target="_blank">the e-book</a>
+<i class="fa-solid fa-cart-shopping"></i> Buy <a href="https://www.volvox.cz/knihy/mimo/smid_po_ovoci_poznate_je.php" target="_blank">the paper book</a> / <a href="https://www.kosmas.cz/knihy/529126/po-ovoci-poznate-je/" target="_blank">the e-book</a> (in Czech)
 
 <i class="fa-solid fa-align-left"></i> Excerpts
 
@@ -42,7 +42,7 @@ As he was thinking, a window appeared on the screen with the header <b>New messa
 </p>
 
 <p style="margin-left: 30px;">
-Instead of panic, he was overwhelmed by an intense feeling of pity. For the lost future. For the wasted past. For the mental state he was leaving in. <i>That’s so unfair!</i>
+Instead of panic, he was overwhelmed by an intense feeling of regret. For the lost future. For the wasted past. For the mental state he was leaving in. <i>That’s so unfair!</i>
 </p>
 
 <p style="margin-left: 30px;">
@@ -72,9 +72,9 @@ One should never give up if there’s any hope.
 
 Well, it starts off well, but I’m not into the ghost stuff / The eroticism was good, that surprised me / The sex ... is terrible – seriously, can you think of anyone who can describe sex without making it awkward? / (guess the gender of the last two) / In the middle, Sebastian (the hero) seems to wander a bit / Pretty good for a debut / I’m curious what the reviewers will say / I broke my reader on page thirty / I really liked it, but maybe mainly because I had low expectations: I can imagine what it looks like when we scientists start writing / It made me think about the philosophical question of whether if a person forgets the event that led to their mental problems, they also get rid of those problems – I admit I skipped a bit / **<a href="https://www.volvox.cz/knihy/mimo/smid_po_ovoci_poznate_je.php" target="_blank">What about you?</a>**
 
-<i class="fa-solid fa-triangle-exclamation"></i> <a href="/docs/ovocespoiler.pdf" target="_blank">More about the story</a> – beware, it contains spoilers!
+<i class="fa-solid fa-triangle-exclamation"></i> <a href="/docs/ovocespoiler.pdf" target="_blank">More about the story</a> (in Czech) – beware, it contains spoilers!
 
-<i class="fa-solid fa-newspaper"></i> In 2003, published by <a href="https://www.volvox.cz/" target="_blank">Volvox Globator</a>
+<i class="fa-solid fa-newspaper"></i> Published in 2023 by <a href="https://www.volvox.cz/" target="_blank">Volvox Globator</a>
 
 <i class="fa-solid fa-coins"></i> Supported by the <a href="https://www.mkcr.cz/statni-fond-kultury-cr-cs-42" target="_blank">State Fund of Culture</a>.
 

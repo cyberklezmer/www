@@ -6,11 +6,11 @@ lang = "cz"
 description = "more"
 +++
 
-## Písně pro hru divadla Mamaya & Papaya *Cbatele*
+## Písně pro hru divadla Mamaya & Papaya *Chatele*
 
 *2001, hudba i text MŠ*
 
-### <a name="ajrybo">Aj rybo
+### <a name="ajrybo"></a>Aj rybo
 
 Jakob: Aj aj aj rybo milená<br>
 V srdci se mi usadila láska šílená<br>
@@ -38,7 +38,7 @@ Já jím řízky telecí<br>
 Tomu se lidi<br>
 Říká kšeft<br>
 
-### <a name="reknimi">Řekni mi
+### <a name="reknimi"></a>Řekni mi
 
 Ruben: Řekni mi milá proč musíš jít<br>
 Tele: Mám strejčka řezníka dnes navštívit<br>
@@ -51,7 +51,7 @@ R: A kdy tě má milá uvidím zas<br>
 T: Nazejtří až bude oběda čas<br>
 <br>
 
-### <a name="teleci">Telecí
+### <a name="teleci"></a>Telecí
 
 Když na pastvě dojde tráva musí se jít dál<br>
 I kdyby krk půlku stáda tenhle pochod stál<br>

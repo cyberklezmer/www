@@ -7,7 +7,7 @@ description = "more"
 +++
 
 
-<i class="icon fa-solid fa-book-open"></i> [Po ovoci poznáte je](@/cz/ovoce.md)  (román, vyšel 2023) 
+<i class="icon fa-solid fa-book-open"></i> [Po ovoci poznáte je](@/cz/others/ovoce.md)  (román, vyšel 2023) 
 
 <i class="icon fa-solid fa-pen-nib"></i> <a href="/docs/potize.pdf" target="_blank">Potíže s láskou</a> (jakože sbírka básní)
 

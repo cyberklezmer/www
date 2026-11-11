@@ -1,6 +1,12 @@
 <!doctype html>
 <meta charset="utf-8">
-<link rel="canonical" href="http://www.martinsmid.cz/cz/">
-<meta http-equiv="refresh" content="0; url=http://www.martinsmid.cz/cz/">
 <title>Redirect</title>
+<script>
+  const target = "http://www.martinsmid.cz/cz/";
+  const hash = window.location.hash || "";
+  window.location.replace(target + hash);
+</script>
+<noscript>
+  <meta http-equiv="refresh" content="0; url=http://www.martinsmid.cz/cz/">
+</noscript>
 <p><a href="http://www.martinsmid.cz/cz/">Click here</a> to be redirected.</p>

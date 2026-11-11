@@ -7,7 +7,7 @@ more = false
 
 ![minierdos](/images/erdos-mini.png) ![minibacon](/images/bacon-mini.png) ![minisabbath](/images/sabbath-mini.png) [Erdős Number](@/cz/odkazy/erdos.md)
 
-![minibrouk](/images/brouk-mini.png)[Microdebilisa smidi](@/en/odkazy/brouk.md)
+![minibrouk](/images/brouk-mini.png)[Microdebilissa smidi](@/en/odkazy/brouk.md)
 
 <!-- more -->
 

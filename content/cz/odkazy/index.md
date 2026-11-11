@@ -1,13 +1,13 @@
 +++
 title = "Kdo z vás to má?"
-weight = 5
+weight = 2
 date = 2022-09-22
 more = false
 +++
 
 ![minierdos](/images/erdos-mini.png) ![minibacon](/images/bacon-mini.png) ![minisabbath](/images/sabbath-mini.png) [Erdősovo+ číslo ](@/cz/odkazy/erdos.md)
 
-![minibrouk](/images/brouk-mini.png)[Microdebilisa smidi](@/cz/odkazy/brouk.md)
+![minibrouk](/images/brouk-mini.png)[Microdebilissa smidi](@/cz/odkazy/brouk.md)
 
 
 <!-- more -->

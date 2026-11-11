@@ -42,11 +42,11 @@
         <lastmod>2019-11-27</lastmod>
     </url>
     <url>
-        <loc>http://www.martinsmid.cz/cz/others/ovoce-copy/</loc>
+        <loc>http://www.martinsmid.cz/cz/others/ovoce/</loc>
         <lastmod>2019-11-27</lastmod>
     </url>
     <url>
-        <loc>http://www.martinsmid.cz/cz/others/pastrami-copy/</loc>
+        <loc>http://www.martinsmid.cz/cz/others/pastrami/</loc>
         <lastmod>2019-11-27</lastmod>
     </url>
     <url>
@@ -59,14 +59,6 @@
     </url>
     <url>
         <loc>http://www.martinsmid.cz/cz/others/texty/y/</loc>
-        <lastmod>2019-11-27</lastmod>
-    </url>
-    <url>
-        <loc>http://www.martinsmid.cz/cz/ovoce/</loc>
-        <lastmod>2019-11-27</lastmod>
-    </url>
-    <url>
-        <loc>http://www.martinsmid.cz/cz/pastrami/</loc>
         <lastmod>2019-11-27</lastmod>
     </url>
     <url>
@@ -83,6 +75,17 @@
     <url>
         <loc>http://www.martinsmid.cz/cz/profes/veda-copy/</loc>
         <lastmod>2019-11-27</lastmod>
+    </url>
+    <url>
+        <loc>http://www.martinsmid.cz/cz/teaching/</loc>
+    </url>
+    <url>
+        <loc>http://www.martinsmid.cz/cz/teaching/mfm/</loc>
+        <lastmod>2025-09-30</lastmod>
+    </url>
+    <url>
+        <loc>http://www.martinsmid.cz/cz/teaching/sp/</loc>
+        <lastmod>2025-09-30</lastmod>
     </url>
     <url>
         <loc>http://www.martinsmid.cz/cz/veda/</loc>
@@ -108,6 +111,10 @@
         <lastmod>2019-11-27</lastmod>
     </url>
     <url>
+        <loc>http://www.martinsmid.cz/en/odkazy/erdos/</loc>
+        <lastmod>2019-11-27</lastmod>
+    </url>
+    <url>
         <loc>http://www.martinsmid.cz/en/others/</loc>
     </url>
     <url>
@@ -119,11 +126,11 @@
         <lastmod>2019-11-27</lastmod>
     </url>
     <url>
-        <loc>http://www.martinsmid.cz/en/others/ovoce-copy/</loc>
+        <loc>http://www.martinsmid.cz/en/others/ovoce/</loc>
         <lastmod>2019-11-27</lastmod>
     </url>
     <url>
-        <loc>http://www.martinsmid.cz/en/others/pastrami-copy/</loc>
+        <loc>http://www.martinsmid.cz/en/others/pastrami/</loc>
         <lastmod>2019-11-27</lastmod>
     </url>
     <url>
@@ -139,16 +146,8 @@
         <lastmod>2019-11-27</lastmod>
     </url>
     <url>
-        <loc>http://www.martinsmid.cz/en/ovoce/</loc>
-        <lastmod>2019-11-27</lastmod>
-    </url>
-    <url>
         <loc>http://www.martinsmid.cz/en/pandemie-covid/</loc>
         <lastmod>2022-09-22</lastmod>
-    </url>
-    <url>
-        <loc>http://www.martinsmid.cz/en/pastrami/</loc>
-        <lastmod>2019-11-27</lastmod>
     </url>
     <url>
         <loc>http://www.martinsmid.cz/en/profes/</loc>

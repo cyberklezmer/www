@@ -1,7 +1,7 @@
 +++
 title = "Klec"
 date = 2019-11-27
-weight = 10
+weight = 6
 lang = "cz"
 more = true
 +++

@@ -6,7 +6,7 @@ lang = "cz"
 description = "more"
 +++
 
-<i class="icon fa-solid fa-book-open"></i> [By Their Fruits You Will Know Them](@/cz/ovoce.md) (novel, just published)
+<i class="icon fa-solid fa-book-open"></i> [By Their Fruits You Will Know Them](@ovoce.md) (novel, just published)
 
 <i class="icon fa-solid fa-pen-nib"></i> <a href="/docs/potize.pdf" target="_blank">Troubles with Love</a> (a so-called collection of poems)
 
